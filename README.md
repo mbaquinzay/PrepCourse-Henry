@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio prueba del modulo 2 de prepcourse henry
+esta es una prueba de como crear un repositorio y clonarlo desde hibhub hacia nuestra computadora
